@@ -1,1 +1,2 @@
-Readme
+ECG Signal Analysis using Python
+This is a Python code that analyzes electrocardiogram (ECG) signals obtained from a dataset in CSV format. The code utilizes various libraries such as pandas, numpy, scipy, and matplotlib, among others. Additionally, it installs and imports the "kaggle" and "heartpy" packages for easier data handling and processing.
